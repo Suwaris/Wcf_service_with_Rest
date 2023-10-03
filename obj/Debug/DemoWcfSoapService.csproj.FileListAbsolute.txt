@@ -1,0 +1,7 @@
+G:\DotNetPractices\DemoWcfSoapService\bin\DemoWcfSoapService.dll.config
+G:\DotNetPractices\DemoWcfSoapService\bin\DemoWcfSoapService.dll
+G:\DotNetPractices\DemoWcfSoapService\bin\DemoWcfSoapService.pdb
+G:\DotNetPractices\DemoWcfSoapService\obj\Debug\DemoWcfSoapService.csproj.AssemblyReference.cache
+G:\DotNetPractices\DemoWcfSoapService\obj\Debug\DemoWcfSoapService.csproj.CoreCompileInputs.cache
+G:\DotNetPractices\DemoWcfSoapService\obj\Debug\DemoWcfSoapService.dll
+G:\DotNetPractices\DemoWcfSoapService\obj\Debug\DemoWcfSoapService.pdb
